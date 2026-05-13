@@ -1,2 +1,2 @@
 # nithub-python-training
-Python beginner exercises and assignments from the NITHUB Python Training Program.
+Python exercises and assignments from the NITHUB Python Training Program.
