@@ -23,4 +23,4 @@ python filename.py
 ```
 
 ## 👨‍💻 Author
-**Tofunmi Omololu** — [@I-am-Tofunmi](https://github.com/I-am-Tofunmi)
+**Tofunmi Omololu** 
