@@ -1,25 +1,34 @@
 import math
 
+# This program calculates the area of a triangle using three different methods:
+
+# 1. Base and Height
 def triangle_area(base, height):
     area = 0.5 * base * height
     return area
 
+# Heron's Formula
 def Heron_area(a, b, c):
     s  =  (a + b + c) / 2
     area = math.sqrt(s * (s - a) * (s - b) * (s - c))
     return area
 
+# Coordinate Geometry
 def coordinate_geometry(x1, y1, x2, y2, x3, y3):
     area = abs(x1 * (y2 - y3) + x2 * (y3 - y1) + x3 * (y1 - y2)) * 0.5
     return area
 
+# User Interface
 print("Choose a method to calculate triangle area: ")
 print("1. Base and Height")
 print("2. Heron's Formula")
 print("3. Coordinate Geometry")
 
+
+# Get user choice
 choice = int(input("Enter your choice (1/2/3): "))
 
+# Calculate area based on user choice
 if choice == 1:
     base = float(input("Enter base: "))
     height = float(input("Enter height: "))
