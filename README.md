@@ -21,5 +21,3 @@ Make sure Python is installed, then run any file with:
 
 ## 👨‍💻 Author
 Tofunmi Omololu
-```
-
