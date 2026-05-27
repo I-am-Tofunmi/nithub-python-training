@@ -1,5 +1,4 @@
 # NITHUB Python Training Program
-
 Structured Python programming exercises and assignments from the NITHUB Python Training Program, covering core programming concepts from the ground up.
 
 ## 📚 Topics Covered
@@ -10,17 +9,17 @@ Structured Python programming exercises and assignments from the NITHUB Python T
 - And more as the program progresses...
 
 ## 📂 Assignments
-
 | File | Description |
 |------|-------------|
-| `voter_eligibility.py` | A system that checks if a user is eligible to vote based on age, citizenship, and registration status |
-| `triangle_area.py` | Calculates the area of a triangle using three methods: Base & Height, Heron's Formula, and Coordinate Geometry |
+| voter_eligibility.py | A system that checks if a user is eligible to vote based on age, citizenship, and registration status |
+| triangle_area.py | Calculates the area of a triangle using three methods: Base & Height, Heron's Formula, and Coordinate Geometry |
+| grading-system-python/main.py | Uses conditional statements to evaluate a student's score and return the appropriate grade |
 
 ## 🛠️ How to Run
 Make sure Python is installed, then run any file with:
-```bash
-python filename.py
-```
+```python filename.py```
 
 ## 👨‍💻 Author
-**Tofunmi Omololu** 
+Tofunmi Omololu
+```
+
