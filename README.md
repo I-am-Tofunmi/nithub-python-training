@@ -13,7 +13,8 @@ Structured Python programming exercises and assignments from the NITHUB Python T
 |------|-------------|
 | voter_eligibility.py | A system that checks if a user is eligible to vote based on age, citizenship, and registration status |
 | triangle_area.py | Calculates the area of a triangle using three methods: Base & Height, Heron's Formula, and Coordinate Geometry |
-| grading-system-python/main.py | Uses conditional statements to evaluate a student's score and return the appropriate grade |
+| grading-system-python/ | Uses conditional statements to evaluate a student's score and return the appropriate grade |
+| bmi_calculator.py | Calculates a user's Body Mass Index (BMI) based on weight and height and returns the BMI category |
 
 ## 🛠️ How to Run
 Make sure Python is installed, then run any file with:
@@ -21,3 +22,4 @@ Make sure Python is installed, then run any file with:
 
 ## 👨‍💻 Author
 Tofunmi Omololu
+```
