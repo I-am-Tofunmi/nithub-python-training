@@ -6,6 +6,7 @@ Structured Python programming exercises and assignments from the NITHUB Python T
 - Conditional Statements (if, elif, else)
 - Loops
 - Functions
+- Error Handling (try/except)
 - And more as the program progresses...
 
 ## 📂 Assignments
@@ -15,10 +16,13 @@ Structured Python programming exercises and assignments from the NITHUB Python T
 | triangle_area.py | Calculates the area of a triangle using three methods: Base & Height, Heron's Formula, and Coordinate Geometry |
 | grading_system.py | Uses conditional statements to evaluate a student's score and return the appropriate grade |
 | bmi_calculator.py | Calculates a user's Body Mass Index (BMI) based on weight and height and returns the BMI category |
+| height_converter.py | Converts a user's height across multiple units (m, cm, ft, in) with input validation and error handling |
 
 ## 🛠️ How to Run
 Make sure Python is installed, then run any file with:
-```python filename.py```
+```bash
+python filename.py
+```
 
 ## 👨‍💻 Author
 Tofunmi Omololu
