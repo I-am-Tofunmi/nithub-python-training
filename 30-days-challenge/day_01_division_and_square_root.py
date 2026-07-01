@@ -1,3 +1,4 @@
+# Division and Square Root
 number = int(input("Enter a number: "))
 
 def divide_or_square(number):

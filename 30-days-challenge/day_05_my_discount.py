@@ -1,3 +1,4 @@
+# My Discount
 def my_discount():
     price = int(input("Enter the price of the product: "))
     discount = int(input("Enter the discount of the product: "))

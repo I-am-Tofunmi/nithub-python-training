@@ -1,3 +1,4 @@
+# Register Check
 register = {'Micheal':'yes', 'John':'no', 'Peter':'yes', 'Mary':'yes'}
 def register_check(register):
     number = 0

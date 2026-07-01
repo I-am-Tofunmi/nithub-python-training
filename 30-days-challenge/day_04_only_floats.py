@@ -1,3 +1,4 @@
+#Only Floats
 a = 12.1
 b = 23
 def only_floats(a, b):

@@ -1,3 +1,4 @@
+# Strings to Integers
 def convert_add(list_of_strings):
   list = []
   for x in list_of_strings:
