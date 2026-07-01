@@ -29,6 +29,8 @@ Structured Python programming exercises and assignments from the NITHUB Python T
 | day_03_register_check.py | A function that checks how many students are present in school using a dictionary |
 | day_04_only_floats.py | A function that checks if one or both of two values are floats, returning 0, 1, or 2 accordingly |
 | day_05_my_discount.py | A function that calculates the price of a product after applying a percentage discount |
+| day_06_user_name_generator.py | A function that generates a username from a user's email by returning everything before the @ sign |
+| day_07_string_range.py | A function that takes a number and returns a string of its range with characters separated by dots (e.g. 6 → '0.1.2.3.4.5') |
 
 ## 🛠️ How to Run
 Make sure Python is installed, then run any file with:
