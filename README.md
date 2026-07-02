@@ -32,6 +32,7 @@ Structured Python programming exercises and assignments from the NITHUB Python T
 | day_06_user_name_generator.py | A function that generates a username from a user's email by returning everything before the @ sign |
 | day_07_string_range.py | A function that takes a number and returns a string of its range with characters separated by dots (e.g. 6 → '0.1.2.3.4.5') |
 | day_08_odd_and_even.py | A function that takes a list of numbers and returns the difference between the largest even number and the smallest odd number in the list |
+| day_09_biggest_odd.py | A function that takes a string of numbers and returns the biggest odd number using list comprehension |
 
 ## 🛠️ How to Run
 Make sure Python is installed, then run any file with:
