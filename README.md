@@ -34,6 +34,7 @@ Structured Python programming exercises and assignments from the NITHUB Python T
 | day_08_odd_and_even.py | A function that takes a list of numbers and returns the difference between the largest even number and the smallest odd number in the list |
 | day_09_biggest_odd.py | A function that takes a string of numbers and returns the biggest odd number using list comprehension |
 | day_10_hide_password.py | A function that takes a password input from a user, hides it with asterisks and tells the user how many characters long it is. Also includes an extra challenge that converts a list of numbers into strings with comma thousand separators |
+| day_11_are_they_equal.py | A function that checks whether two strings have the same characters and length, using sorted comparison |
 
 ## 🛠️ How to Run
 Make sure Python is installed, then run any file with:
