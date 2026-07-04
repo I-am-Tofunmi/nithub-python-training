@@ -35,7 +35,8 @@ Structured Python programming exercises and assignments from the NITHUB Python T
 | day_09_biggest_odd.py | A function that takes a string of numbers and returns the biggest odd number using list comprehension |
 | day_10_hide_password.py | A function that takes a password input from a user, hides it with asterisks and tells the user how many characters long it is. Also includes an extra challenge that converts a list of numbers into strings with comma thousand separators |
 | day_11_are_they_equal.py | A function that checks whether two strings have the same characters and length, using sorted comparison |
-
+| day_12_count_the_dots.py | A function that counts how many dots are in a dot-separated string. Also includes an extra challenge that calculates a user's age in minutes from their year of birth, with input validation for 4-digit years within a valid range |
+ 
 ## 🛠️ How to Run
 Make sure Python is installed, then run any file with:
 ```bash
