@@ -40,6 +40,7 @@ Structured Python programming exercises and assignments from the NITHUB Python T
 | day_14_flat_list.py | A function that flattens a nested list into a one-dimension list using a nested loop. Also includes an extra challenge that calculates a teacher's gross monthly salary based on periods taught, with overtime pay applied above 100 periods |
 | day_15_same_in_reverse.py | A function that checks whether a string reads the same forwards and backwards using slice reversal |
 | day_16_sum_list.py | A function that flattens a nested list of integers and returns the sum of all values |
+| day_17_user_name.py | A function that generates a username by reversing the user's name and appending a random digit between 0-9 |
  
 ## 🛠️ How to Run
 Make sure Python is installed, then run any file with:
