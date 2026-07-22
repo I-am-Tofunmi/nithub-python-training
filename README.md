@@ -2,10 +2,15 @@
 Structured Python programming exercises and assignments from the NITHUB Python Training Program, covering core programming concepts from the ground up.
 
 ## 📚 Topics Covered
-- Variables & Data Types
-- Conditional Statements (if, elif, else)
-- Loops (for and while)
-- Functions
+- Data Types (int, float, complex, str, bool) & Variables (naming rules, snake/camel/Pascal case)
+- Operators (arithmetic, assignment, comparison, logical, membership, identity)
+- String Properties & Methods (capitalize, casefold, len, center, concatenation, replication)
+- Conditional Statements (if, elif, else, nested if)
+- Data Structures (list, tuple, dictionary, set) — mutability, indexing, slicing, step size
+- List Methods (append, clear, copy, count, extend, index, pop, remove, insert, reverse, sort)
+- Loops (while and for), loop control statements (break, continue, pass), nested loops
+- for-else, enumerate, zip, unpacking, list comprehension
+- Functions (parameters, default arguments, positional/keyword arguments, return values, local/global scope)
 - Error Handling (try/except)
 - And more as the program progresses...
 
@@ -20,6 +25,7 @@ Structured Python programming exercises and assignments from the NITHUB Python T
 | NITHUB_Python_Loops_Assignment.ipynb | Covers for loops, while loops, and the continue keyword through 5 hands-on tasks — embedded via Google Colab |
 | NITHUB_Python_Loops_Assignment.md | 9 basic while loop exercises (even/odd printing, countdown, summation, multiplication table, password retry, digit counting, etc.) — embedded via Google Colab |
 | Funtions_Problem_NITHUB.md | 5 function-based problems covering rectangle perimeter, age-based pricing, username validation, even/odd checker, and strong password validator |
+| ATM_Menu_System.md | A menu-driven ATM simulation featuring PIN authentication, balance inquiry, deposit |
 
 ## 🔥 30 Days of Python Challenge
 | File | Description |
