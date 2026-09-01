@@ -47,6 +47,7 @@ Structured Python programming exercises and assignments from the NITHUB Python T
 | day_15_same_in_reverse.py | A function that checks whether a string reads the same forwards and backwards using slice reversal |
 | day_16_sum_list.py | A function that flattens a nested list of integers and returns the sum of all values |
 | day_17_user_name.py | A function that generates a username by reversing the user's name and appending a random digit between 0-9 |
+| day_18_any_number.py | A function that accepts any number of arguments and returns their average |
  
 ## 🛠️ How to Run
 Make sure Python is installed, then run any file with:
