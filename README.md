@@ -50,6 +50,8 @@ Structured Python programming exercises and assignments from the NITHUB Python T
 | day_18_any_number.py | A function that accepts any number of arguments and returns their average |
 | day_19_words_and_elements.py | Two functions — count_words returns the number of words in a string, and count_elements returns the number of characters excluding whitespace |
 | day_20_capitalize_first_letter.py | A function that capitalizes the first letter of each word in a string using split, capitalize, and join |
+| day_21_list_of_tuples.py | A function that combines two equal-length lists into a list of tuples using zip |
+ 
  
 ## 🛠️ How to Run
 Make sure Python is installed, then run any file with:
