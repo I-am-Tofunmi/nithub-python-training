@@ -52,6 +52,7 @@ Structured Python programming exercises and assignments from the NITHUB Python T
 | day_20_capitalize_first_letter.py | A function that capitalizes the first letter of each word in a string using split, capitalize, and join |
 | day_21_list_of_tuples.py | A function that combines two equal-length lists into a list of tuples using zip |
 | day_22_Add_Under_Score.py | Three functions to sequentially replace spaces with #, # with _, and remove _ using str.replace |
+| day_23_simple_calculator.py | A calculator that performs add, subtract, divide, and multiply on two user-input numbers, handling ValueError, ZeroDivisionError, and NameError |
  
 ## 🛠️ How to Run
 Make sure Python is installed, then run any file with:
