@@ -54,6 +54,7 @@ Structured Python programming exercises and assignments from the NITHUB Python T
 | day_22_Add_Under_Score.py | Three functions to sequentially replace spaces with #, # with _, and remove _ using str.replace |
 | day_23_simple_calculator.py | A calculator that performs add, subtract, divide, and multiply on two user-input numbers, handling ValueError, ZeroDivisionError, and NameError |
 | day_24_average_calories.py | A function that repeatedly asks the user for their daily calorie intake until they type 'done', then returns the average |
+| day_25_all_the_same.py | A function that checks whether all elements in a string, list, or tuple are the same, using set and all() approaches |
  
 ## 🛠️ How to Run
 Make sure Python is installed, then run any file with:
